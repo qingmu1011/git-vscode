@@ -5,3 +5,7 @@ console.log(fun.test(1,2));
 console.log('123');
 
 console.log('master');
+
+
+console.log('hot-dev');
+
