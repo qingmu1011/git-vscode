@@ -5,3 +5,7 @@ function test(a,b){
 module.exports = {
     test
 }
+
+function gitHubEdit(){
+    console.log('hello, github')
+}
