@@ -3,9 +3,13 @@ function test(a,b){
 }
 
 module.exports = {
-    test
+    test,gitHubEdit
 }
 
 function gitHubEdit(){
     console.log('hello, github')
+}
+
+function hotDevEdit(){
+    console.log('hello, hot-dev');
 }
